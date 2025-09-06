@@ -1,4 +1,4 @@
-# Task5 : Student Management System
+# Student Management System
 * Overview
    The Student Management System (SMS) is a Java-based desktop application designed to efficiently manage student data. It provides an interactive Graphical User 
    Interface (GUI) built using Java Swing that allows users to add, view, edit, delete, and search student records. The application ensures data persistence by 
