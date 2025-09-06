@@ -54,10 +54,5 @@
     5. course	VARCHAR	Student Course
     6. grade	VARCHAR	Student Grade/Result
 
-* Overview of the frame-
-
-
-  
-![sms](https://github.com/user-attachments/assets/16d791a3-285b-436c-b0f7-13dab3ab093d)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
